@@ -31,7 +31,7 @@ const router: Router = express.Router();
  *                type: boolean
  *          responses:
  *              200:
- *                  description: A hello world message.
+ *                  description: Data about the weather for location give and crypto for crypto currency given
  *                  content:
  *                      application/json:
  *                          schema:
