@@ -9,3 +9,5 @@ How to run the project:
 - COIN_GECKO_API_KEY -> api key for coin gecko integration
 
 3. npm run dev
+
+Examples of requests and responses can be found on swagger after running the project at http://localhost:3000/api-docs
